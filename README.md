@@ -8,7 +8,7 @@ The Oracle Cloud  [Observability and Manageability platform](https://blogs.oracl
 In this tutorial, we will walk you through how you can move logs from Oracle Cloud Infrastructure into  [Datadog](https://www.sumologic.com/). Datadog is a popular Observability tool that provides monitoring and security services that provide full visibility into your applications.
 
 Our solution architecture at high level is as shown below
-![enter image description here](https://github.com/mayur-oci/sumologic/blob/main/sl_archi.png?raw=true)
+![enter image description here](https://github.com/mayur-oci/sumologic/blob/main/newArchi.png?raw=true)
 
 ## Create a Custom HTTP Source Collector in Sumologic
 
