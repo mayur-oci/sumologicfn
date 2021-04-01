@@ -6,6 +6,13 @@ import os
 import requests
 from fdk import response
 
+#
+# oci-monitoring-metric-export-python version 1.0.
+#
+# Copyright (c) 2021 Oracle, Inc.  All rights reserved.
+# Licensed under the Universal Permissive License v 1.0 as shown at https://oss.oracle.com/licenses/upl.
+#
+
 # This method is the entrypoint for your Function invokation 
 # aka the method invoked by the OCI Fn platform
 # it will receive the list of log entries from OCI as input in the form of bytestream
