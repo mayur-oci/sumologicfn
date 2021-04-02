@@ -1,5 +1,5 @@
 
-# Monitor Oracle Cloud Infrastructure with SumoLogic
+# Observe Oracle Cloud Infrastructure with SumoLogic
 
 ## Introduction
 
